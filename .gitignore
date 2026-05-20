@@ -3,5 +3,7 @@ venv/
 .idea/
 .pytest_cache/
 __pycache__/
-*.sql
-*.png
+task_1_db.sql
+task_1_screenshot.png
+task_2_db.sql
+task_2_screenshot.png
